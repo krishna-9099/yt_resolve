@@ -1,0 +1,1 @@
+var Q={m:function(a,b){a.splice(0,b);} };function sig(a){a=a.split("");Q[String.fromCharCode(109)](a,4);return a.join("");}
